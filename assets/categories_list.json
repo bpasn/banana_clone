@@ -1,0 +1,82 @@
+[
+    {
+        "image": "assets/images/categories/arrival.png",
+        "label": "NewArrival"
+    },
+    {
+        "image": "assets/images/categories/smartphone.png",
+        "label": "Smartphone"
+    },
+    {
+        "image": "assets/images/categories/coupon.png",
+        "label": "Coupon Discount"
+    },
+    {
+        "image": "assets/images/categories/laptop-screen.png",
+        "label": "NoteBook"
+    },
+    {
+        "image": "assets/images/categories/best-seller.png",
+        "label": "Best Seller"
+    },
+    {
+        "image": "assets/images/categories/computer.png",
+        "label": "Computer Equipment"
+    },
+    {
+        "image": "assets/images/categories/brand-image.png",
+        "label": "Brand Fair"
+    },
+    {
+        "image": "assets/images/categories/headphones.png",
+        "label": "Headphone & Speaker"
+    },
+    {
+        "image": "assets/images/categories/arrival.png",
+        "label": "Click & Collect 1 Hr."
+    },
+    {
+        "image": "assets/images/categories/arrival.png",
+        "label": "E-QUIP Customize"
+    },
+    {
+        "image": "assets/images/categories/apple.png",
+        "label": "Apple"
+    },
+    {
+        "image": "assets/images/categories/credit-card.png",
+        "label": "Credit Card Promotion"
+    },
+    {
+        "image": "assets/images/categories/smart-watch.png",
+        "label": "Smart Watch"
+    },
+    {
+        "image": "assets/images/categories/sales.png",
+        "label": "Store Promotion"
+    },
+    {
+        "image": "assets/images/categories/arrival.png",
+        "label": "Case & Films"
+    },
+    {
+        "image": "assets/images/categories/arrival.png",
+        "label": "Trade in"
+    },
+    {
+        "image": "assets/images/categories/eco-house.png",
+        "label": "Electrical Appliance"
+    },
+    {
+        "image": "assets/images/categories/blog.png",
+        "label": "Blog & Review"
+    },
+    {
+        "image": "assets/images/categories/graduation-hat.png",
+        "label": "Student Price"
+    },
+    {
+        "image": "assets/images/categories/your-location.png",
+        "label": "Store location"
+    }
+]
